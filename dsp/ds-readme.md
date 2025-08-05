@@ -1,0 +1,1 @@
+python -m mindsdb --api http,mysql,postgres,mongodb --config dsp/config.json

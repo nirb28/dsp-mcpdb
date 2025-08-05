@@ -1,0 +1,1 @@
+source ../.venv/bin/activate; nohup python -m mindsdb --api http,mysql,postgres,mongodb,mcp --config dsp/config.json &
